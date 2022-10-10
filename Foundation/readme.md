@@ -71,8 +71,7 @@ Waterfall _assumes_ that we know everything we need to know at the beginning of 
 * How long it will take
 * How many developers we need
 
-Waterfall attempts to answer these questions and _lock them down_ near the beginning of the project. Then it takes a _work of congress_ to change courses midstream.
-
+Waterfall attempts to answer these questions and _lock them down_ near the beginning of the project. 
 The reason that these assumptions don't hold for most Software Development projects is because the software industry is *highly volatile*.
 
 * Markets change
@@ -90,7 +89,6 @@ Waterfall is attractive because:
 * It is easy to work when budgeting a project and dealing with legal / contract matters
 * It gives the _illusion_ of managing and minimizing risk
 
-For another perspective see: [Thoughtbot Playbook - No Fixed Bids](https://thoughtbot.com/playbook/our-company/sales#no-fixed-bids).
 
 ## Enter Agile
 
