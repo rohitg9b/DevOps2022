@@ -24,7 +24,6 @@ Instead edit the template file and then run 'md-process'.
 
 ## What is Software Development Life Cycle?
 
-* Also called "System Development Life Cycle"
 
 > _SDLC_ is term referring to a process or set of processes for planning, creating, testing, and deploying an software product (i.e. a library, framework, application, website, etc.)
 
