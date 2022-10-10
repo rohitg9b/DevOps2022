@@ -49,14 +49,6 @@ Or simply:
 ![Software Triangle](images/fast-good-cheap.png)
 
 BOTTOM LINE: You get to pick 2 out of 3
-
-## Managing Risk
-
-Risk is anything that can threaten the *success* of a software project.
-
-> How do we measure and track risk?
-
-
 ## Traditional Approach - Waterfall
 
 ![Waterfall Process](images/waterfall.png)
