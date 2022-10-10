@@ -7,8 +7,6 @@ Instead edit the template file and then run 'md-process'.
 
 # SDLC
 
-![Dilbert Process](images/dilbert-process.gif)
-
 ---
 
 ## Table of Contents
