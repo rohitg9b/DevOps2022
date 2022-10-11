@@ -101,7 +101,7 @@ Agile accepts the fact that everything continues to change at a rapid rate:
 
 > So we must be *agile* in our approach to developing a software solution to a problem.
 
-##The four core values outlined in the Agile Manifesto are:
+**The four core values outlined in the Agile Manifesto are:**
 
 _Individual interactions are more important than processes and tools_ 
 People drive the development process and respond to business needs. They are the most important part of development and should be valued above processes and tools.
@@ -115,7 +115,7 @@ Agile focuses on collaboration between the customer and project manager, rather 
 _A focus on responding to change_ 
 Traditional software development used to avoid change because it was considered an undesired expense. Agile eliminates this idea. The short iterations in the Agile cycle allow changes to easily be made, helping the team modify the process to best fit their needs rather than the other way around. Overall, Agile software development believes change is always a way to improve the project and provide additional value.
 
-##The principles behind the Agile Manifesto.
+**Agile Manifesto**
 
 1. The highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
