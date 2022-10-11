@@ -7,8 +7,6 @@ Instead edit the template file and then run 'md-process'.
 
 # SDLC
 
----
-
 ## Table of Contents
 
 * [What is Software Development Life Cycle?](#what-is-software-development-life-cycle?)
@@ -92,7 +90,6 @@ Waterfall is attractive because:
 
 ## Enter Agile
 
-Agile asks "When do we know the most about a project (at the beginning or at the end)?"
 
 Agile accepts the fact that everything continues to change at a rapid rate:
 
@@ -104,6 +101,11 @@ Agile accepts the fact that everything continues to change at a rapid rate:
 
 > So we must be *agile* in our approach to developing a software solution to a problem.
 
+The four core values outlined in the Agile Manifesto are:
+
+Individual interactions are more important than processes and tools. People drive the development process and respond to business needs. They are the most important part of development and should be valued above processes and tools.
+
+
 ---
 
 ![Scrum Process](images/scrum-big.png)
@@ -113,7 +115,4 @@ Agile accepts the fact that everything continues to change at a rapid rate:
 ## For Further Reading
 
 * [DZone RefCard on Scrum](dzone-rc-scrum.pdf)
-* [Agile Lesson](https://github.com/ga-wdi-lessons/agile)
-* [Overview of Agile Methodology](http://www.slideshare.net/hareshkarkar/overview-of-agile-methodology)
-* [Thoughtbot Playbook - No Fixed Bids](https://thoughtbot.com/playbook/our-company/sales#no-fixed-bids)
-* [Thoughtbot - Why Fixed Bids Are Bad For Clients, Too](https://robots.thoughtbot.com/why-fixed-bids-are-bad-for-clients-too)
+
