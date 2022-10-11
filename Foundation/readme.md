@@ -141,6 +141,63 @@ Traditional software development used to avoid change because it was considered 
 
 12. At regular intervals, the team reflects on how to become more effective and adjusts its behavior accordingly.
 
+
+**Scrum and kanban**
+
+Scrum and kanban are the primary agile processes.
+
+Important items to understand:
+
+The Scrum Team consists of three roles, namely a ScrumMaster, a Product Owner, and the Team.
+
+ScrumMaster
+The ScrumMaster (sometimes written as the Scrum Master, although the official term has no space after “Scrum”) is the keeper of the scrum process. He/she is responsible for-
+
+making the process run smoothly
+removing obstacles that impact productivity
+organizing and facilitating the critical meetings
+Product Owner
+The Product Owner is responsible for maximizing the value of the product and the work of the Team. How this is done may vary widely across organizations, Scrum Teams, and individuals.
+
+The Product Owner is the sole person responsible for managing the Product Backlog. Product Backlog management includes-
+
+Expressing Product Backlog items clearly.
+
+Ordering the Product Backlog items to best achieve goals and missions.
+
+Optimizing the value of the work the Team performs.
+
+Ensuring that the Product Backlog is visible, transparent, and clear to all, and shows what the Team will work on further.
+
+Ensuring that the Team understands items in the Product Backlog to the level needed.
+
+The Product Owner may do the above work, or have the Team do it. However, the Product Owner remains accountable for these tasks.
+
+The Product Owner is one person, not a committee. The Product Owner may represent the desires of a committee in the Product Backlog, but those wanting to change a Product Backlog item’s priority must address the Product Owner.
+
+For the Product Owner to succeed, the entire organization must respect his or her decisions. The Product Owner’s decisions are visible in the content and ordering of the Product Backlog. No one is allowed to tell the Team to work from a different set of requirements, and the Team is not allowed to act on what anyone else says. This is ensured by ScrumMaster.
+
+The Team
+The Team is self-organizing and cross-functional. That means the team comprises of analysts, designers, developers, testers, etc. as appropriate and as relevant to the project.
+
+Some people in the industry refer to this team as development team. However, such a reference is leading to controversy that the team can have only developers and no other roles. It is an obvious understanding that it is only a misconception. To develop a software product, we require all the roles and that is the essence of scrum – the team will function in collaboration. Cross-functional teams have all competencies needed to accomplish the work without depending on others not part of the team, and thus time and effort can be saved. The team model in Scrum is designed to optimize flexibility, creativity, and productivity.
+
+Optimal Team size is small enough to remain nimble and large enough to complete significant work within a Sprint. The Team size should be kept in the range from five to nine people, if possible. Fewer than five team members decrease interaction and results in smaller productivity gains. Having more than nine members requires too much coordination.
+
+The scrum team works together closely, on a daily basis, to ensure the smooth flow of information and the quick resolution of issues. The scrum team delivers product iteratively and incrementally, maximizing opportunities for feedback. Incremental deliveries of a complete product ensure a potentially useful version of working product is always available.
+
+
+Some organizations start with kanban because it’s relatively easy to explain and implement. Kanban works as a fan-in and fan-out process where the team pulls user stories from an intake board and funnels them through a workflow until they are marked done.
+
+But many organizations implement scrum, which organizes the work in cadences called sprints, usually lasting one or two weeks. The product owner writes the requirements as user stories, then prioritizes them in a backlog based on their business value. The team reviews the backlog and commits to the top user stories they can complete during the sprint.
+
+Scrum includes several standard meetings (sometimes called scrum ceremonies or scrum rituals) to help teams commit to sprint priorities, complete the work during the sprint, and end each sprint successfully. These meetings usually include a few common elements:
+
+* Sprint planning is where the product owner shares priorities, and the team decides how much work it can complete during the sprint. 
+* Daily standup meetings help teams discuss the status of user stories; teammates share their daily goals, and anyone can escalate blocks that impede the team’s progress.
+* Sprint reviews are demo meetings at the end of the sprint, where the functionality is shown to the product owner to gain acceptance on completed work.
+* Retrospective meetings are where the team discusses what went well and what needs improvement in their agile and software development processes.
+
 ---
 
 ![Scrum Process](images/scrum-big.png)
